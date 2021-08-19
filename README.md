@@ -1,4 +1,5 @@
 # weatherapp
+This is a weather app created using flutter and uses api to fetch weather data from a weather website.
 
 A new Flutter application.
 
